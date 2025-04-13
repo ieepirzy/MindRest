@@ -51,7 +51,7 @@ Mindrest takes youth safety seriously. For users under 18, especially in Mindres
 
 ## 🔐 Built-In Guardrails for All Youth Versions:
 - AI is softly restricted in tone and scope to avoid overwhelming or inappropriate dialogue
-- Prompts and suggestions are curated with input from educators, therapists, and child development specialists
+- Prompts and suggestions are developed using publicly available resources on emotional health, child development, and cognitive science.
 - All moderation systems are local-first and privacy-conscious by default
 
 ### 🧸 Mindrest Junior (Ages 6–11)
