@@ -54,3 +54,11 @@ This README is part of the public documentation.
 The data-handling of this app will be shared publicly to promote transparency and trust.
 However the custom prompts and AI integration live in a private submodule and are not yet public.
 >No promises are made to release the proprietary aspects of this project for public use.
+
+### 📬 Let’s Connect:
+- Twitter / X: [@Iladev_](https://x.com/Iladev_)
+- Website: *(soon™️)*
+- Email: iladevv0@gmail.com
+  
+#### 📖 Want to learn more - or keep up with my projects?
+- ▶️ Youtube devlogs & diaries: [@IladevV](https://www.youtube.com/@IladevV)
